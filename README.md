@@ -4,7 +4,7 @@
 
 📺[Up主视频讲解前端学习路线](https://www.bilibili.com/video/BV1ZZ4y1H7rU/)
 
-![路线图](./roadmap.jpeg)
+![路线图](https://cdn.jsdelivr.net/gh/ObjTube/front-end-roadmap@master/roadmap.jpeg)
 
 ## 功能
 
